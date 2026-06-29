@@ -1,0 +1,2 @@
+# Conception-Int-gr-e-et-Optimisation-d-un-Culbuteur-de-Distribution-CAO-Calcul-sur-CATIA-V5
+FR : Conception intégrée et optimisation topologique d'un culbuteur de distribution automobile sous CATIA V5 (Analyse cinématique, statique graphique, Hertz, et Éléments Finis). EN : Integrated CAD design and structural optimization of a rocker arm mechanism using CATIA V5 (Kinematics, graphical statics, Hertz contact theory, and FEA).
